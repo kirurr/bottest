@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.engt .engt-powered img {
+  width: auto !important;
+ }
+
 body {
   background-image: url(img/bg.jpg);
   font-size: 13px;
